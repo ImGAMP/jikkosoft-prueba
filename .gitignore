@@ -1,0 +1,6 @@
+Biblioteca/out/
+*.class
+*.jar
+*.log
+.DS_Store
+
